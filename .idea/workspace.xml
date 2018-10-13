@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cc5776b-3bc6-4205-b791-992c1bf557c9" name="Default Changelist" comment="" />
+    <list default="true" id="5cc5776b-3bc6-4205-b791-992c1bf557c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Docs/santi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/santisanbuqu_liucixin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/sg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/sgyy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/sgyy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/st.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/santi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/31903.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre_analysis.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +23,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Markov$binary_choice.coverage" NAME="binary_choice Coverage Results" MODIFIED="1539405379152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Markov$main.coverage" NAME="main Coverage Results" MODIFIED="1539408371696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Markov$main.coverage" NAME="main Coverage Results" MODIFIED="1539468093950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Markov$Text_Pre_Analysis.coverage" NAME="Text_Pre_Analysis Coverage Results" MODIFIED="1539403220628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -27,25 +40,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="4" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="3263" />
+          <entry key="py" value="4053" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="3263" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="4053" />
         </counts>
       </usages-collector>
     </session>
@@ -55,8 +69,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pre_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="249">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding>
+                <marker date="1539457617032" expanded="true" signature="76:337" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,11 +81,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            <state relative-caret-position="461">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <element signature="e#0#33#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/sg.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/sgyy.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3350">
+              <caret line="6575" column="36" selection-start-line="6575" selection-start-column="36" selection-end-line="6575" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -86,19 +117,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/31903.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58878">
-              <caret line="3271" column="26" selection-start-line="3271" selection-start-column="26" selection-end-line="3271" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="992">
-              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state>
               <folding>
                 <marker date="1539407689926" expanded="true" signature="46:194" ph="..." />
                 <marker date="1539407689926" expanded="true" signature="225:230" ph="..." />
@@ -121,7 +142,16 @@
       <find>孙少平</find>
       <find>但除过</find>
       <find>孙少平在农</find>
+      <find>正式下</find>
+      <find>新工人</find>
+      <find>金俊山本来不愿揽什么事</find>
+      <find>公社赛</find>
+      <find>罗辑</find>
+      <find>安肯与反贼相见</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -129,8 +159,10 @@
         <option value="$PROJECT_DIR$/31903.txt" />
         <option value="$PROJECT_DIR$/Text_Pre_Analysis.py" />
         <option value="$PROJECT_DIR$/binary_choice.py" />
-        <option value="$PROJECT_DIR$/pre_analysis.py" />
         <option value="$PROJECT_DIR$/training.py" />
+        <option value="$PROJECT_DIR$/santisanbuqu_liucixin.txt" />
+        <option value="$PROJECT_DIR$/pre_analysis.py" />
+        <option value="$PROJECT_DIR$/Docs/sgyy.txt" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -147,6 +179,7 @@
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -159,6 +192,11 @@
             <path>
               <item name="Markov" type="b2602c69:ProjectViewProjectNode" />
               <item name="Markov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Markov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Markov" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +330,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -343,28 +381,39 @@
         <state relative-caret-position="-14030" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pre_analysis.py">
+    <entry file="file://$PROJECT_DIR$/31903.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="497">
+          <caret line="693" column="66" selection-start-line="693" selection-start-column="66" selection-end-line="693" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/training.py">
+    <entry file="file://$PROJECT_DIR$/st.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/santi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/santisanbuqu_liucixin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/sg.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="992">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        <state relative-caret-position="249">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           <folding>
-            <marker date="1539407689926" expanded="true" signature="46:194" ph="..." />
-            <marker date="1539407689926" expanded="true" signature="225:230" ph="..." />
+            <marker date="1539457617032" expanded="true" signature="76:337" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31903.txt">
+    <entry file="file://$PROJECT_DIR$/Docs/sgyy.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58878">
-          <caret line="3271" column="26" selection-start-line="3271" selection-start-column="26" selection-end-line="3271" selection-end-column="26" />
+        <state relative-caret-position="3350">
+          <caret line="6575" column="36" selection-start-line="6575" selection-start-column="36" selection-end-line="6575" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -378,12 +427,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539407689926" expanded="true" signature="46:194" ph="..." />
+            <marker date="1539407689926" expanded="true" signature="225:230" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        <state relative-caret-position="461">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

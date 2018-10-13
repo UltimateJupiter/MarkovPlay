@@ -1,4 +1,4 @@
-from pre_analysis import get_text
+import pre_analysis
 from training import train
 import numpy as np
 import sys
@@ -7,23 +7,21 @@ from binary_choice import choice
 from IPython import embed
 
 
-def text_gen(length, basemodel):
-    text_base = u"孙少平在农村长大，深刻认识这黄土地上养育出来的人"
+def text_gen(length, basemodel, text_base):
+
     for x in basemodel:
         mark = len(x)
         break
     text = text_base[:mark]
     print(text, end="")
     while 1:
-        # print(text)
-        # print(basemodel[text])
 
-        new_ind = "asdfghjk"
-        # embed()
+        new_ind = "yffyiyfiyfi"
+
         while (text + new_ind)[-mark:] not in basemodel:
             new_ind = choice(basemodel[text[-mark:]][0], basemodel[text[-mark:]][1])
         print(new_ind, end='')
-        time.sleep(np.random.random()/10)
+        # time.sleep(np.random.random()/10)
 
         text += new_ind
         if new_ind == "\n":
@@ -33,9 +31,11 @@ def text_gen(length, basemodel):
 
 
 def main():
-    text = get_text()
-    basemodel = train(sample_length=5, text=text)
-    text_gen(400, basemodel)
+
+    # text, start = pre_analysis.get_text_three_body()
+    text, start = pre_analysis.get_text_three_kindom()
+    basemodel = train(sample_length=3, text=text)
+    text_gen(1900, basemodel, start)
 
 
 main()
