@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cc5776b-3bc6-4205-b791-992c1bf557c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docs/santi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/santisanbuqu_liucixin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/sg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/sgyy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/sgyy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/st.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/santi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/31903.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pre_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre_analysis.py" afterDir="false" />
-    </list>
+    <list default="true" id="5cc5776b-3bc6-4205-b791-992c1bf557c9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +53,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pre_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
+            <state relative-caret-position="567">
               <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               <folding>
                 <marker date="1539457617032" expanded="true" signature="76:337" ph="..." />
@@ -78,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="461">
@@ -319,12 +306,12 @@
     <frame x="1440" y="-540" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13875598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13875598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32938564" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938564" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32938564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,16 +387,6 @@
     <entry file="file://$PROJECT_DIR$/Docs/sg.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pre_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <marker date="1539457617032" expanded="true" signature="76:337" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Docs/sgyy.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3350">
@@ -443,6 +420,16 @@
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <marker date="1539457617032" expanded="true" signature="76:337" ph="..." />
           </folding>
         </state>
       </provider>
